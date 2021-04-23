@@ -1,0 +1,6 @@
+{
+  "instanceId": "testInstanceId",
+  "mongoDb": "mongodb://localhost",
+  "heartBeatInSec": 15,
+  "httpPort": 8888
+}
